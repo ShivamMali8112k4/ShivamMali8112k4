@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ShivamMali8112k4
+- 👀 I’m interested in IOT Atomation
+- 🌱 I’m currently learning deploma in ENTC 
