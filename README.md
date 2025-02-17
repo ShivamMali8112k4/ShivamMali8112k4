@@ -34,3 +34,5 @@
 <h1>📊 GitHub Stats:</h1>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivame&show_icons=true&theme=dark)
+
+![Your Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
