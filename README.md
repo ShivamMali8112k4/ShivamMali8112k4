@@ -5,7 +5,7 @@
 <h1>🌐 Socials:</h1>
 
 <a href="https://www.linkedin.com/in/shivam-mali-8112k4/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" width="95" height="40" />
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" width="95" height="30" />
 </a>
 
 
