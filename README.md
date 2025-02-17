@@ -33,9 +33,5 @@
 
 <h1>📊 GitHub Stats:</h1>
 
-*Hello, I'm Shivam! 👋
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivamMali8112k4&show_icons=true&hide_title=true&theme=dark)
-
-![Your Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ShivamMali8112k4&theme=dark)
 
