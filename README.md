@@ -4,7 +4,7 @@
 
 <h1>🌐 Socials:</h1>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-mali-8112k4/)width="75" height="25"]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-mali-8112k4/)width="75" height="25"
 
 
 <h1>💻 Tech Stack:</h1>
