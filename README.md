@@ -36,3 +36,9 @@
 <h1>📊 GitHub Stats:</h1>
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivamMali8112k4&show_icons=true&hide_title=true&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ShivamMali8112k4&theme=dark)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMali8112k4&layout=compact&theme=dark)
+
