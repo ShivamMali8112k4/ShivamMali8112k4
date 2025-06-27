@@ -1,6 +1,6 @@
 <h1>💫 About Me:</h1>
 
-<h6>🔭 I’m currently  working On a IoT Dron Project<br>🌱 I’m currently learning Frontend devlopment<br>💬 I like Robotis & Automation</h6>
+<h6>🔭 I’m currently  working On a IoT Dron Project<br>🌱 I’m currently learning AI tracking system<br>💬 I like Robotis & Automation</h6>
 
 <h1>🌐 Socials:</h1>
 
