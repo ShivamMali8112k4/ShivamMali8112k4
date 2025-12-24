@@ -39,11 +39,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ShivamMali8112k4&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ShivamMali8112k4&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMali8112k4&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=ShivamMali8112k4)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ShivamMali8112k4&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMali8112k4&layout=compact)
 
