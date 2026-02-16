@@ -28,6 +28,7 @@ Embedded Systems, Robotics, Automation, IoT
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-mali-8112k4/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/btech.daily/)
 
 ---
 
